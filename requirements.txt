@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+chromadb
+sentence-transformers
+PyMuPDF
+google-generativeai
+jinja2 # For HTML templating
+python-multipart # For Form data parsing (UploadFile)

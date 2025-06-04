@@ -3,4 +3,5 @@ __pycache__/
 .env
 chroma_db/
 chroma_persistence_storage/
-
+chroma_vector_store_prod/
+chroma_db_store/
