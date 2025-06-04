@@ -23,8 +23,8 @@ PDF Power-Up is a FastAPI-based web application that allows users to upload PDF 
 
 1. **Clone the repository:**
    ```powershell
-   git clone <your-repo-url>
-   cd p1
+   git clone https://github.com/Ibnuawf/PDF-Power-Up.git
+   cd PDF-Power-Up
    ```
 2. **Create and activate a virtual environment:**
    ```powershell
